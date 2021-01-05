@@ -1,4 +1,4 @@
-# eBPF Playgroung
+# eBPF Playground
 
 Playing with observability tools using eBPF using bcc, bpftrace, and gobpf
 
